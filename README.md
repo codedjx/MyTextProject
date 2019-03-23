@@ -1,0 +1,2 @@
+# MyTextProject
+DailyPractice
